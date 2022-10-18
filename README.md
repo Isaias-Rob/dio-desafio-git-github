@@ -2,6 +2,6 @@
 Desafio de Git/ Github da DIO.
 
 ## Links Úteis
-https://markdown.net.br/sintaxe-basica/
-.
-https://www.dio.me/
+https://markdown.net.br/sintaxe-basica/ .
+
+https://www.dio.me/ .
