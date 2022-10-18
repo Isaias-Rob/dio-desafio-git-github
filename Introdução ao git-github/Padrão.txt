@@ -1,0 +1,10 @@
+- Basico
+git init
+git add *
+git commit -a -m "first commit"
+git push (-u origin "main")
+
+- Em caso de conflito
+git pull
+*resolva o conflito*
+git push
